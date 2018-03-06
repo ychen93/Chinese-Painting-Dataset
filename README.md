@@ -5,4 +5,4 @@ For details of the project, see our poster at http://cs231n.stanford.edu/reports
 
 This dataset contains 5798 samples of Chinese painting each of which has 256x256 pixels. They are obtained by searching for specific keywords in Google and Baidu, cropping, and removing duplicates. 
 
-This dataset is for personal and academic use only. Some pictures may be subject to copyright.
+This dataset is for personal and academic use only.
